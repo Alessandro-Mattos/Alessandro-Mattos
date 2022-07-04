@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alessandro Mattos</h1>
-<h3 align="center">A Full-Stack web development studant at [Trybe Coding School](https://www.betrybe.com/) </h3>
+<h4 align="center">A Full-Stack web development studant at
+<a href="https://www.betrybe.com/" target="_top">Trybe Coding School</a> 
+</h4>
+
 
 - 🌱 I’m currently learning **back-end module**
 
-- 📫 mail me at: **am.cleancode@gmail.com**
+- 📫 mail me at: **<am.cleancode@gmail.com>**
 
 </p>
 
