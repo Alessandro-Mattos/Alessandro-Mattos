@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessandro Mattos</h1>
-<h3 align="center">A Brazilian Full-Stack developer studant</h3>
+<h3 align="center">A Full-Stack web developer studant</h3>
 
-- 📚 I’m currently studying Web development in [Trybe Coding School](https://www.betrybe.com/)
+- 📚 I’m currently studying in [Trybe Coding School](https://www.betrybe.com/)
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **back-end**
 
 - 📫 mail me at: **am.cleancode@gmail.com**
 
