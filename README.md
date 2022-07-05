@@ -8,7 +8,7 @@
  🌱 I’m currently learning **back-end module**
 </p>
 <p align="center"> 
- 📫 <a href="am.cleancode@gmail.com" target="_top">email</a> 
+ 📫 <a href="mailto:am.cleancode@gmail.com" target="_top">email</a> 
 </p>
 
 
