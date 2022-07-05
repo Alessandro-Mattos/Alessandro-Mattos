@@ -6,9 +6,10 @@
 
 <p align="center"> 
 - 🌱 I’m currently learning **back-end module**
-
+</p>
+<p align="center"> 
 - 📫 **<am.cleancode@gmail.com>**
- </p>
+</p>
 
 
 <h3 align="center">Current Languages and Tools:</h3>
