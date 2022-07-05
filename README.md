@@ -5,10 +5,10 @@
 
 
 <p align="center"> 
-- 🌱 I’m currently learning **back-end module**
+ 🌱 I’m currently learning **back-end module**
 </p>
 <p align="center"> 
-- 📫 **<am.cleancode@gmail.com>**
+ 📫 <a href="am.cleancode@gmail.com" target="_top">email</a> 
 </p>
 
 
