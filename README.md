@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
- 👔 <a href="https://www.linkedin.com/in/alessandro-mattos/">LinkedIn</a>
+ 👔 <a href="https://www.linkedin.com/in/alessandro-mattos/">linkedin</a>
 </p>
 
 
