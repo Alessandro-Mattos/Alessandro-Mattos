@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Mattos</h1>
-<h4 align="center">A Full-Stack web development studant at
-<a href="https://www.betrybe.com/" target="_top">Trybe Coding School</a> 
+<h4 align="center">A Full-Stack web developer.
 </h4>
 
 
