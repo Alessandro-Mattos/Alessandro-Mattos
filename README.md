@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
- 🌱 I’m currently learning **back-end module**
+ 🌱 I’m currently learning **Asymptotic Complexity**
 </p>
 <p align="center"> 
  📫 <a href="mailto:am.cleancode@gmail.com" target="_top">email</a> 
